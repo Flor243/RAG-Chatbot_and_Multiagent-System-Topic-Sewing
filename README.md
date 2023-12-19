@@ -12,6 +12,5 @@ los archivos csv que opotunamente se proporcionan para correr el código present
 - Una vez corridos todas las celdas del archivo .ipynb, se encuentra la celda con la función
   ask_queries() en la sección 1.5 que permite realizar consultas interactivas.
 
-### El informe del Ejercicio 1 y el Ejercicio 2 con sus correspondientes observaciones y conclusiones 
-se encuentra en el archivo TP2_Informe_Procesamiento_del_lenguaje_natural_Fernandez_Florencia.pdf
+### El informe del Ejercicio 1 y el Ejercicio 2 con sus correspondientes observaciones y conclusiones se encuentra en el archivo TP2_Informe_Procesamiento_del_lenguaje_natural_Fernandez_Florencia.pdf
 
